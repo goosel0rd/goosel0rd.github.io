@@ -1,6 +1,6 @@
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/dog.jpg)
 
-## Joe Fuller test blog post
+## Joe Fuller Main blog page
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+my dedicated blog post for [ELEC4630](https://programs-courses.uq.edu.au/course.html?course_code=ELEC4630) 
